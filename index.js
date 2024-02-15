@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Guarding In Elite Slayers","Listening to ","Elite Slayers on Top"];
+const statusMessages = ["Elite Slayers @ Custom Bot"];
 
 
 let currentIndex = 0;
